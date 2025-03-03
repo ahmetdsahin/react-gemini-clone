@@ -1,6 +1,6 @@
 # Gemini Clone 
 
-I just created a clone of the gemini page in terms of design.
+I just created a clone of the gemini ai page in terms of design.
 
 ## Tech Stack
 
