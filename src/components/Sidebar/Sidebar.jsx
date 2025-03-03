@@ -21,6 +21,10 @@ const Sidebar = () => {
           <img src={assets.message_icon} alt="" />
           <p>Türkiye'nin başkenti...</p>
         </div>
+        <div className="recent-entry">
+          <img src={assets.message_icon} alt="" />
+          <p>React js nedir?</p>
+        </div>
       </div>
       :null
         }
